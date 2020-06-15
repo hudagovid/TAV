@@ -18,7 +18,7 @@ copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "1"
 [[menu.main]]
 URL = "about"
 name = "about"
