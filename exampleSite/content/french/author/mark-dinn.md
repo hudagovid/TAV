@@ -1,15 +1,14 @@
 ---
-title: "Mark Dinn"
-image: ""
-email: "email2@example.org"
+title: Thibault TABAREAU
+image: ''
+email: tabareau.neo@gmail.com
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+- icon: ti-facebook
+  link: "#"
+- icon: ti-twitter-alt
+  link: "#"
+- icon: ti-github
+  link: "#"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Étant passionné de sport depuis toujours et pratiquant le football en association depuis l’âge de 5 ans, j’ai été confronté très tôt aux moyens limités des associations sportives. Néo Business Sport accompagne les associations dans leur développement grâce à la mise en place d’évènements partenaires pour dynamiser votre business club (Soirées partenaires, After Works, Déjeuners business, Petits déjeuners business, …)
