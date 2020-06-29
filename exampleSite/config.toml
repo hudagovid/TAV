@@ -21,37 +21,41 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
-name = "brochure"
-url = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
-weight = 8
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "portfolio"
+name = "portfolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 4
+[[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
+[[menu.main]]
+URL = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
+name = "brochure"
+weight = "10"
+[[menu.static]]
+URL = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view"
+name = "Brochure"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
