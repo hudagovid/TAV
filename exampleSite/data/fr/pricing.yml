@@ -55,8 +55,3 @@ pricing:
     button:
       label: Signup
       link: "#"
-menu:
-  main:
-    URL: pricing
-    name: pricing
-    weight: 5

@@ -21,6 +21,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
@@ -28,10 +32,6 @@ weight = 7
 URL = "blog"
 name = "blog"
 weight = 6
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "portfolio"
