@@ -1,3 +1,6 @@
+---
+- id: brochure
+  translation: Brochure
 - id: blogTitle
   translation: Dernier message
 - id: readMore
