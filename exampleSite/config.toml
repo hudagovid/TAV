@@ -49,7 +49,7 @@ URL = "contact"
 name = "contact"
 weight = 7
 [[menu.main]]
-URL = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
+URL = "brochure"
 name = "brochure"
 weight = "10"
 [[menu.static]]
