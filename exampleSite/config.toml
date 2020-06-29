@@ -21,10 +21,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
-URL = "brochure"
-name = "brochure"
-weight = 8
-[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
@@ -35,6 +31,7 @@ weight = 6
 [[menu.main]]
 URL = "pricing"
 name = "pricing"
+url = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
 weight = 5
 [[menu.main]]
 URL = "team"
