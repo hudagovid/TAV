@@ -1,6 +1,7 @@
 baseURL = "https://TAV.netlify.com"
 disableLanguages = []
 disqusShortname = ""
+DefaultContentLanguage = "fr"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
