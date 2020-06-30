@@ -4,44 +4,44 @@ portfolio:
   title: Clubs partenaires
   portfolio_item:
   - name: FC Nantes
-    image: "/images/fcn.png"
-    image_webp: "/images/fcn.png"
+    image: "/images/logo-fcn.png"
+    image_webp: "/images/logo-fcn.png"
     categories: []
     content: Evénement avec les supporters
     link: https://themefisher.com
   - name: SO Cholet
-    image: "/images/SOC.png"
-    image_webp: "/images/SOC.png"
+    image: "/images/logo-SOC.png"
+    image_webp: "/images/logo-SOC.png"
     categories:
     - development
     content: Communication digitale
     link: ''
   - name: Cholet Basket
-    image: "/images/CB.png"
-    image_webp: "/images/CB.png"
+    image: "/images/logo-CB.png"
+    image_webp: "/images/logo-CB.png"
     categories:
     - design
     - development
     content: 3 nouveaux sponsors trouvés
     link: "#"
   - name: Angers SCO
-    image: "/images/SCO.png"
-    image_webp: "/images/SCO.png"
+    image: "/images/logo-SCO.png"
+    image_webp: "/images/logo-SCO.png"
     categories:
     - photography
     - development
     content: Soirées partenaires
     link: "#"
   - name: Hermine Nantes
-    image: "/images/Hermine.png"
-    image_webp: "/images/Hermine.png"
+    image: "/images/logo-Hermine.png"
+    image_webp: "/images/logo-Hermine.png"
     categories:
     - design
     content: Animation de la communauté de supporters
     link: "#"
   - name: Handball Nantes Club
-    image: "/images/HBC.svg"
-    image_webp: "/images/HBC.svg"
+    image: "/images/logo-HBC.png"
+    image_webp: "/images/logo-HBC.png"
     categories:
     - photography
     content: Audit général
