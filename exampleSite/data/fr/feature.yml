@@ -1,27 +1,23 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: En chiffres
+  content: Les clubs sportifs, acteurs majeurs de notre région. Un club génère des
+    émotions, rassemble, fédère autour d'un événement
+  feature_item:
+  - title: 307 000
+    icon: ti-world
+    content: Associations sportives en France
+  - title: 34 millions de français
+    icon: ti-panel
+    content: de + de 15 ans déclarent pratiquer une activité physique par semaine
+  - title: 15 millions
+    icon: ti-stats-up
+    content: de bénévoles accompagnent les clubs blabla
+  - title: Easy Customization
+    icon: 10 000 euros
+    content: Le budget moyen de soutien à un projet se situe majoritairement pour
+      les grandes entreprises mécènes au delà de ce chiffre. Pour les TPE/PME, le
+      budget moyen par projet se situe en majorité entre 1000 et 5000 euros.
