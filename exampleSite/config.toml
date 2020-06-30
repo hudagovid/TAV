@@ -52,7 +52,7 @@ weight = ""
 author = "Hugo David x Neo Business Sport"
 description = "Themefisher - Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "/images/neo-negatif_fond-transparent.png"
+logo = "/images/logoneo-transparent.png"
 post_share = true
 [params.map]
 enable = true
