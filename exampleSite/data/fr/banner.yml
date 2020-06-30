@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/background.png"
-  bg_image: "/images/background.png"
+  bg_image_webp: "/images/background-NEO.png"
+  bg_image: "/images/background-NEO.png"
   icon: ''
-  title: NEO BUSINESS SPORT
+  title: ''
   content: Réinventez votre business model sportif
   button:
     enable: true
