@@ -14,7 +14,6 @@ portfolio:
     image: "/images/logo-SOC.png"
     image_webp: "/images/logo-SOC.png"
     categories:
-    - development
     - Football
     content: Communication digitale
     link: ''
@@ -22,8 +21,6 @@ portfolio:
     image: "/images/logo-CB.png"
     image_webp: "/images/logo-CB.png"
     categories:
-    - design
-    - development
     - Basket
     content: 3 nouveaux sponsors trouvés
     link: "#"
@@ -31,8 +28,6 @@ portfolio:
     image: "/images/logo-SCO.png"
     image_webp: "/images/logo-SCO.png"
     categories:
-    - photography
-    - development
     - Football
     content: Soirées partenaires
     link: "#"
@@ -40,7 +35,6 @@ portfolio:
     image: "/images/logo-Hermine.png"
     image_webp: "/images/logo-Hermine.png"
     categories:
-    - design
     - Basket
     content: Animation de la communauté de supporters
     link: "#"
@@ -48,7 +42,6 @@ portfolio:
     image: "/images/logo-HBC.png"
     image_webp: "/images/logo-HBC.png"
     categories:
-    - photography
     - Handball
     content: Audit général
     link: "#"
