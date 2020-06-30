@@ -11,39 +11,39 @@ portfolio:
     content: Evénement avec les supporters
     link: https://themefisher.com
   - name: SO Cholet
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: "/images/SOC.png"
+    image_webp: "/images/SOC.png"
     categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Communication digitale
     link: ''
   - name: Cholet Basket
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: "/images/CB.png"
+    image_webp: "/images/CB.png"
     categories:
     - design
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: 3 nouveaux sponsors trouvés
     link: "#"
   - name: Angers SCO
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: "/images/SCO.png"
+    image_webp: "/images/SCO.png"
     categories:
     - photography
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Soirées partenaires
     link: "#"
   - name: Hermine Nantes
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: "/images/Hermine.png"
+    image_webp: "/images/Hermine.png"
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Animation de la communauté de supporters
     link: "#"
   - name: Handball Nantes Club
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+    image: "/images/HBC.svg"
+    image_webp: "/images/HBC.svg"
     categories:
     - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Audit général
     link: "#"
