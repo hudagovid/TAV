@@ -16,8 +16,8 @@ team:
     - icon: ti-twitter-alt
       link: https://twitter.com/ThibTab
   - name: Alban GAUTIER
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: "/images/alban.jpg"
+    image: "/images/alban.jpg"
     designation: Co-fondateur
     content: De l'énergie à revendre
     social:
