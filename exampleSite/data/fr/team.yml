@@ -4,17 +4,17 @@ team:
   title: Notre équipe
   team_member:
   - name: Thibault TABAREAU
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: "/images/thibault.jpg"
+    image: "/images/thibault.jpg"
     designation: Co-fondateur
     content: Un professionnel qui saura vous convaincre
     social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/thibault-tabareau-/
     - icon: ti-facebook
       link: https://www.facebook.com/thibault.tabareau.9
     - icon: ti-twitter-alt
       link: https://twitter.com/ThibTab
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/thibault-tabareau-/
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
