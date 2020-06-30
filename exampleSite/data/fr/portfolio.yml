@@ -1,13 +1,12 @@
 ---
 portfolio:
   enable: true
-  title: Ils nous ont fait confiance
+  title: Clubs partenaires
   portfolio_item:
   - name: FC Nantes
     image: "/images/fcn.png"
     image_webp: "/images/fcn.png"
-    categories:
-    - design
+    categories: []
     content: Evénement avec les supporters
     link: https://themefisher.com
   - name: SO Cholet
