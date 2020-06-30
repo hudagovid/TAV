@@ -27,21 +27,18 @@ team:
       link: https://www.facebook.com/alban.gautier.39
     - icon: ti-twitter-alt
       link: https://twitter.com/BanBan1696
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Valentin SOULHOL
+    image_webp: "/images/valentin.jpg"
+    image: "/images/valentin.jpg"
+    designation: Co-fondateur
+    content: La terreur de Wall Street
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+      link: https://www.linkedin.com/in/valentin-soulhol-2326301a3/
+    - icon: ti-facebook
+      link: https://www.facebook.com/valentin.soulhol
+    - icon: ti-twitter-alt
+      link: https://twitter.com/ValentinSoulhol
   - name: Mo. Kha. Alamgir
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
