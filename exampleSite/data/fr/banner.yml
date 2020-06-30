@@ -4,8 +4,8 @@ banner:
   bg_image_webp: "/images/background-NEO.png"
   bg_image: "/images/background-NEO.png"
   icon: ''
-  title: "      "
-  content: Réinventez votre business model sportif
+  title: Transformez votre modèle économique
+  content: Transformez votre modèle économique
   button:
     enable: true
     label: En savoir plus
