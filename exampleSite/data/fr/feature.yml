@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/4.png
+  image_webp: images/4.png
   title: En chiffres
   content: Les clubs sportifs, acteurs majeurs de notre région. Un club génère des
     émotions, rassemble, fédère autour d'un événement
