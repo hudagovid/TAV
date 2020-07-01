@@ -167,7 +167,7 @@ a:hover {
 }
 
 .bg-dark {
-  background: #242930;
+  background: #011E26;
 }
 
 .parallax-section {
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #011E26;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
