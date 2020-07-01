@@ -1,39 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hudagovid 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-hudagovid
-/
-TAV
-forked from themefisher/meghna-hugo
-0
-0524
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-TAV/assets/css/style.css
-@hudagovid
-hudagovid Update style.css
-…
-Latest commit e5bbf8e 7 minutes ago
- History
- 4 contributors
-@hawkeye116477@developer-evan@OdairTrujillo@hudagovid
-2284 lines (1884 sloc)  36.1 KB
   
 /*
 Template Name: Meghna Responsive HTML5/CSS3 Business Template
@@ -45,12 +10,12 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
+  background-color: #0F2830;
   color: #737f8a;
 }
 
 body {
-  background-color: #353b43;
+  background-color: #0F2830;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -200,7 +165,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #0F2830;
 }
 
 .bg-dark {
@@ -2307,7 +2272,7 @@ figcaption {
 }
 
 #select-language {
-  background: #353b43;
+  background: #0F2830;
   color: #ffffff;
   border: 0;
 }
@@ -2319,15 +2284,4 @@ figcaption {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
