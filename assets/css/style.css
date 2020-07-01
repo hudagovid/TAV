@@ -1,3 +1,40 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@hudagovid 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+hudagovid
+/
+TAV
+forked from themefisher/meghna-hugo
+0
+0524
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+TAV/assets/css/style.css
+@hudagovid
+hudagovid Update style.css
+…
+Latest commit e5bbf8e 7 minutes ago
+ History
+ 4 contributors
+@hawkeye116477@developer-evan@OdairTrujillo@hudagovid
+2284 lines (1884 sloc)  36.1 KB
+  
 /*
 Template Name: Meghna Responsive HTML5/CSS3 Business Template
 Author: Themefisher
@@ -323,7 +360,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #011E26;
 }
 
 .overly {
@@ -407,7 +444,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #011E26;
   width: 100%;
   margin-bottom: 0;
 }
@@ -773,7 +810,7 @@ a:hover {
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #292F36;
+  background: #011E26;
 }
 
 .counters-item i {
@@ -804,7 +841,7 @@ a:hover {
 }
 
 .price-title {
-  background-color: #292F36;
+  background-color: #011E26;
   padding: 30px 0 20px;
 }
 
@@ -841,7 +878,7 @@ a:hover {
 }
 
 .pricing li:nth-child(2n) {
-  background-color: #292F36;
+  background-color: #011E26;
 }
 
 .pricing li .btn {
@@ -1021,7 +1058,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: #011E26;
   margin-bottom: 10px;
 }
 
@@ -1215,12 +1252,12 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #011E26;
   border: 1px solid #4e595f;
 }
 
 .post-block {
-  background-color: #292F36;
+  background-color: #011E26;
   margin-bottom: 10px;
 }
 
@@ -1456,7 +1493,7 @@ a:hover {
 }
 
 .post-comment {
-  background-color: #292f36;
+  background-color: #011E26;
   ;
   padding: 20px;
   margin-top: 20px;
@@ -2282,3 +2319,15 @@ figcaption {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
