@@ -1,6 +1,6 @@
 ---
 title: Alban GAUTIER
-image: ''
+image: "/images/alban.jpg"
 email: gautier.neo@gmail.com
 social:
 - icon: ti-facebook
