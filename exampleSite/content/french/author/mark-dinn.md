@@ -1,13 +1,11 @@
 ---
 title: Thibault TABAREAU
-image: ''
+image: "/images/thibault.jpg"
 email: tabareau.neo@gmail.com
 social:
 - icon: ti-facebook
   link: "#"
 - icon: ti-twitter-alt
-  link: "#"
-- icon: ti-github
   link: "#"
 
 ---
