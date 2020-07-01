@@ -1,8 +1,8 @@
 ---
 title: Les nouvelles tendances du mécénat sportif
 date: 2018-09-12T08:51:12.000+00:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/2.png"
+image: "/images/2.png"
 author: Alban GAUTIER
 description: This is meta description
 
