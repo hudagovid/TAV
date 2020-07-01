@@ -1,34 +1,38 @@
-################################# Service #################################
+---
 service:
-  enable : true
-  title : Our Services
-  service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  enable: true
+  title: Nos Services
+  service_item:
+  - name: Partenariats
+    icon: ti-world
+    content: Nous fidélisons et développons les partenariats déjà mis en place.
+  - name: Budget Sponsoring
+    icon: ti-layout
+    content: Augmentons votre budget sponsoring en allant à la rencontre des acteurs
+      de votre ville mais aussi de votre région !
+  - name: Communauté
+    icon: ti-blackboard
+    content: Créons une communauté entre le club, ses licenciés et ses partenaires.
+  - name: Evénements
+    icon: ti-palette
+    content: Fédérons vos partenaires autour d'événements.
+  - name: Convention
+    icon: ti-package
+    content: Obtenez des places pour notre convention annuelle et venez découvrir
+      l'ensemble du réseau Neo Business Sport
+  - name: Afterwork
+    icon: ti-pulse
+    content: Venez découvrir notre Business Club lors d'activités conviviales et boostez
+      votre réseau.
+  - name: Soirées partenaires
+    icon: ti-world
+    content: Venez à la rencontre de l'ensemble des acteurs du Club et partagez un
+      excellent moment.
+  - name: Déjeuners Business
+    icon: ti-world
+    content: Venez rencontrer notre réseau lors d'un déjeuner convivial dans des lieux
+      uniques.
+  - name: Communication
+    icon: ti-world
+    content: Profitez de nos compétences sur Instagram, Facebook, LinkedIn et Twitter
+      pour booster la visibilité de votre club et de ses résultats.
