@@ -1,9 +1,9 @@
 ---
 pricing:
-  enable: false
+  enable: true
   title: Our Plans
   pricing_table:
-  - name: Free
+  - name: Sponsoring
     price: "$99"
     unit: month
     services:
@@ -14,9 +14,9 @@ pricing:
     - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
-      label: Signup
+      label: Devis personnalisé
       link: "#"
-  - name: Silver
+  - name: Evénementiel
     price: "$149"
     unit: month
     services:
@@ -27,9 +27,9 @@ pricing:
     - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
-      label: Signup
+      label: Devis personnalisé
       link: "#"
-  - name: Gold
+  - name: Communication
     price: "$199"
     unit: month
     services:
@@ -40,18 +40,5 @@ pricing:
     - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
-      label: Signup
-      link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
+      label: Devis personnalisé
       link: "#"
