@@ -21,33 +21,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
+URL = "contact"
+name = "contact"
+weight = 7
 [[menu.main]]
 URL = "blog"
 name = "blog"
 weight = 6
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
+URL = "pricing"
+name = "pricing"
+weight = 5
+[[menu.main]]
+URL = "portfolio"
+name = "portfolio"
+weight = 3
+[[menu.main]]
+URL = "services"
+name = "services"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "about"
+weight = 1
 [[menu.static]]
 URL = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
 name = "brochure"
-weight = ""
+weight = 1
 [params]
 author = "Hugo David x Neo Business Sport"
 description = "Themefisher - Responsive Multipurpose Parallax HTML5 Template"
