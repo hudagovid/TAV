@@ -59,7 +59,7 @@ google_analytics_id = ""
 logo = "/images/logoneo-transparent.png"
 post_share = true
 [params.map]
-enable = true
+enable = false
 gmap_api = ""
 map_latitude = "47.0667"
 map_longitude = "-0.8833"
