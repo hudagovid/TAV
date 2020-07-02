@@ -39,3 +39,7 @@ team:
       link: https://www.facebook.com/valentin.soulhol
     - icon: ti-twitter-alt
       link: https://twitter.com/ValentinSoulhol
+menu:
+  main:
+    name: team
+    weight: 4
