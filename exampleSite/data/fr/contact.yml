@@ -15,7 +15,7 @@ contact:
     info: 'Email: contact.neo@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: https://getform.io/f/0e6926ca-4b10-42d8-b049-ff45c5305d35
     name: Votre Nom
     email: Votre email
     subject: Objet
