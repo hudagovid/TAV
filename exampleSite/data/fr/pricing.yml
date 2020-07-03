@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Nos tarifs
   pricing_table:
   - name: Sponsoring
     price: "$99"
