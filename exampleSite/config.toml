@@ -55,7 +55,7 @@ weight = ""
 [params]
 author = "Hugo David x Neo Business Sport"
 description = "Neo Business Sport - Nouveau modèle économique sportif"
-google_analytics_id = ""
+google_analytics_id = "UA-171624145-1"
 logo = "/images/logoneo-transparent.png"
 post_share = true
 [params.map]
