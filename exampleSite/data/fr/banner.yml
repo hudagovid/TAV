@@ -4,8 +4,8 @@ banner:
   bg_image_webp: "/images/background-NEO.png"
   bg_image: "/images/background-NEO.png"
   icon: ''
-  title: Transformez votre modèle économique
-  content: Transformez votre modèle économique
+  title: ''
+  content: Transformez votre modèle économique simplement
   button:
     enable: true
     label: En savoir plus
