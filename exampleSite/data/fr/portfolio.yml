@@ -11,8 +11,8 @@ portfolio:
     content: Evénement avec les supporters
     link: https://www.fcnantes.com/articles/article2809.php?num=30627
   - name: SO Cholet
-    image: "/images/logo-SOC.png"
-    image_webp: "/images/logo-SOC.png"
+    image: "/images/logopsg.png"
+    image_webp: "/images/logopsg.png"
     categories:
     - Football
     content: Communication digitale
