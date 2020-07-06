@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/4.png
-  image_webp: images/4.png
+  image: "/images/unnamed-1.jpg"
+  image_webp: "/images/unnamed-1.jpg"
   title: Les chiffres du secteur
   content: Les clubs sportifs, acteurs majeurs de notre région. Un club génère des
     émotions, rassemble, fédère autour d'un événement
