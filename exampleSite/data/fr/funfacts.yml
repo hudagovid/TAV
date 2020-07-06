@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: Clubs partenaires
     icon: ti-face-smile
-    count: "32"
+    count: "2"
   - title: Evénements réalisés
     icon: ti-archive
     count: "50"
