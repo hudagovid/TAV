@@ -45,7 +45,7 @@ URL = "contact"
 name = "contact"
 weight = 7
 [[menu.static]]
-URL = "https://drive.google.com/file/d/14xeyfrKFTtDr3fwPjwp6qkiF7GlNaMhB/view?usp=sharing"
+URL = "https://drive.google.com/file/d/1XPBmr49w7D1qNd1P6JLhk43vdHcSWSEr/view?usp=sharing"
 name = "brochure"
 weight = ""
 [params]
