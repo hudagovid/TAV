@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   title: Nos tarifs
   pricing_table:
   - name: Sponsoring
