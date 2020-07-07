@@ -3,52 +3,10 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
-  - name: PSG
-    image: "/images/logopsg.png"
-    image_webp: "/images/logopsg.png"
+  - name: Rugby Olympique Choletais
+    image: "/images/ROC.png"
+    image_webp: "/images/ROC.png"
     categories:
-    - Football
-    content: Recrutement Neymar
-    link: https://www.psg.fr/
-  - name: FC Nantes
-    image: "/images/logo-fcn.png"
-    image_webp: "/images/logo-fcn.png"
-    categories:
-    - Football
-    content: Evénement avec les supporters
-    link: https://www.fcnantes.com/articles/article2809.php?num=30627
-  - name: SO Cholet
-    image: "/images/logopsg.png"
-    image_webp: "/images/logopsg.png"
-    categories:
-    - Football
-    content: Communication digitale
-    link: ''
-  - name: Cholet Basket
-    image: "/images/logo-CB.png"
-    image_webp: "/images/logo-CB.png"
-    categories:
-    - Basket
-    content: 3 nouveaux sponsors trouvés
-    link: "#"
-  - name: Angers SCO
-    image: "/images/logo-SCO.png"
-    image_webp: "/images/logo-SCO.png"
-    categories:
-    - Football
-    content: Soirées partenaires
-    link: "#"
-  - name: Hermine Nantes
-    image: "/images/logo-Hermine.png"
-    image_webp: "/images/logo-Hermine.png"
-    categories:
-    - Basket
-    content: Animation de la communauté de supporters
-    link: "#"
-  - name: Handball Nantes Club
-    image: "/images/logo-HBC.png"
-    image_webp: "/images/logo-HBC.png"
-    categories:
-    - Handball
-    content: Audit général
-    link: "#"
+    - All
+    content: ''
+    link: https://www.rugbycholet-roc.com/
