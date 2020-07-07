@@ -3,7 +3,7 @@ about:
   enable: true
   title: Nos Forces
   about_item:
-  - icon: ti-printer
+  - icon: ti-server
     title: Sponsoring
     content: Nous développons votre budget sponsoring grâce à une nouvelle vision
       basée sur un modèle 100% gagnant/gagnant.
