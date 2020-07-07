@@ -10,8 +10,8 @@ portfolio:
     content: ''
     link: ''
   - name: Rugby Olympique Choletais
-    image: "/images/ROC.png"
-    image_webp: "/images/ROC.png"
+    image: "/images/logopsg.png"
+    image_webp: "/images/logopsg.png"
     categories:
     - Football
     content: Club
