@@ -12,7 +12,6 @@ portfolio:
   - name: Rugby Olympique Choletais
     image: "/images/ROC.png"
     image_webp: "/images/ROC.png"
-    categories:
-    - Rugby
+    categories: []
     content: Club
     link: ''
