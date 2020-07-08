@@ -33,8 +33,8 @@ service:
       votre réseau.
   - name: Soirées partenaires
     icon: ti-star
-    content: Venez à la rencontre de l'ensemble des acteurs du Club et partagez un
-      excellent moment.
+    content: Nos soirées partenaires vous permettrons de rencontrer l'ensemble des
+      acteurs du Club tout en partageant un excellent moment.
   - name: Convention
     icon: ti-crown
     content: Obtenez des places pour notre convention annuelle et venez découvrir
