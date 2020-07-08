@@ -36,6 +36,6 @@ service:
     content: Venez à la rencontre de l'ensemble des acteurs du Club et partagez un
       excellent moment.
   - name: Convention
-    icon: ti-package
+    icon: ti-crown
     content: Obtenez des places pour notre convention annuelle et venez découvrir
-      l'ensemble du réseau Neo Business Sport
+      l'ensemble du réseau Neo Business Sport.
