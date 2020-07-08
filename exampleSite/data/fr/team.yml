@@ -7,7 +7,7 @@ team:
     image_webp: "/images/thibault.jpg"
     image: "/images/thibault.jpg"
     designation: Co-fondateur
-    content: Un professionnel qui saura vous convaincre
+    content: 'Responsable commercial '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/thibault-tabareau-/
@@ -19,7 +19,7 @@ team:
     image_webp: "/images/alban.jpg"
     image: "/images/alban.jpg"
     designation: Co-fondateur
-    content: De l'énergie à revendre
+    content: 'Responsable événementiel '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/alban-gautier-41aa74188/
@@ -31,7 +31,7 @@ team:
     image_webp: "/images/valentin.jpg"
     image: "/images/valentin.jpg"
     designation: Co-fondateur
-    content: La terreur de Wall Street
+    content: Responsable administratif
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/valentin-soulhol-2326301a3/
