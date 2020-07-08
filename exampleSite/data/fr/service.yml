@@ -25,8 +25,8 @@ service:
       afin de fédérer vos partenaires.
   - name: Déjeuners Business
     icon: ti-plate
-    content: Venez rencontrer notre réseau lors d'un déjeuner convivial dans des lieux
-      uniques.
+    content: Nous développons le  réseau de vos partenaires, lors d'un déjeuner convivial
+      dans des lieux uniques.
   - name: Afterwork
     icon: ti-pulse
     content: Venez découvrir notre Business Club lors d'activités conviviales et boostez
