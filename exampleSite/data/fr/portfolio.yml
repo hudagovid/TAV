@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
-  - name: ROC
+  - name: Rugby Olympique Choletais
     image: "/images/roc.png"
     image_webp: "/images/roc.png"
     categories:
