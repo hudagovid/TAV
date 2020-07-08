@@ -6,13 +6,13 @@ funfacts:
   counter_item:
   - title: Club partenaire
     icon: ti-face-smile
-    count: "16"
+    count: "1"
   - title: Evénements réalisés
     icon: ti-archive
-    count: "50"
+    count: "0"
   - title: Audits réalises
     icon: ti-thumb-up
-    count: "82"
+    count: "1"
   - title: Mécénat moyen
     icon: ti-gift
     count: "2500"
