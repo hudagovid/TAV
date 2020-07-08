@@ -7,7 +7,7 @@ service:
     icon: ti-world
     content: Nous fidélisons et développons les partenariats déjà mis en place.
   - name: Budget Sponsoring
-    icon: ti-layout
+    icon: ti-money
     content: Augmentons votre budget sponsoring en allant à la rencontre des acteurs
       de votre ville mais aussi de votre région !
   - name: Communication
