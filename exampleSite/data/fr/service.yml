@@ -25,7 +25,7 @@ service:
     content: Venez découvrir notre Business Club lors d'activités conviviales et boostez
       votre réseau.
   - name: Soirées partenaires
-    icon: ti-world
+    icon: ti-star
     content: Venez à la rencontre de l'ensemble des acteurs du Club et partagez un
       excellent moment.
   - name: Déjeuners Business
