@@ -17,7 +17,7 @@ service:
       via Facebook, Instagram, Linkedin et Twitter. '
   - name: Communauté
     icon: ti-flag-alt-2
-    content: Créons et développons un véritable lien, une unification entre le club,
+    content: Créons et développons un véritable lien, une unification, entre le club,
       ses licenciés, ses bénévoles et ses partenaires
   - name: Événements
     icon: ti-announcement
