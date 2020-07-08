@@ -12,7 +12,7 @@ contact:
   - icon: ti-mobile
     info: 'Téléphone: 06 40 55 77 30'
   - icon: ti-email
-    info: 'Email: contact.neo@gmail.com'
+    info: 'Email: contacts.nbs@gmail.com'
   contact_form:
     enable: true
     form_action: https://getform.io/f/0e6926ca-4b10-42d8-b049-ff45c5305d35
