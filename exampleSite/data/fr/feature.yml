@@ -9,13 +9,13 @@ feature:
   feature_item:
   - title: 307 000
     icon: ti-world
-    content: Associations sportives en France
+    content: associations sportives en France.
   - title: 34 millions de français
     icon: ti-panel
-    content: de + de 15 ans déclarent pratiquer une activité physique par semaine
+    content: de + de 15 ans déclarent pratiquer une activité physique par semaine.
   - title: 15 millions
     icon: ti-stats-up
-    content: de bénévoles accompagnent les clubs blabla
+    content: de bénévoles accompagnent les clubs toute l'année;
   - title: 10 000 euros
     icon: ti-stats-up
     content: Le budget moyen de soutien à un projet se situe majoritairement pour
