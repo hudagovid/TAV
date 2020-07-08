@@ -5,7 +5,7 @@ service:
   service_item:
   - name: Partenariats
     icon: ti-world
-    content: 'Nous ne mettons pas de coté vos partenaires actuels. Fidélisons et développons
+    content: 'Ne mettons pas de coté vos partenaires actuels. Fidélisons et développons
       ceux qui vous font déjà confiance. '
   - name: Budget Sponsoring
     icon: ti-money
