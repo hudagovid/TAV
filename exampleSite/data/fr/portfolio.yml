@@ -11,8 +11,8 @@ portfolio:
     content: Club
     link: ''
   - name: 'Energie le May sur Evre '
-    image: "/images/logopsg.png"
-    image_webp: "/images/logopsg.png"
+    image: "/images/energie.png"
+    image_webp: "/images/energie.png"
     categories:
     - Football
     content: Club
