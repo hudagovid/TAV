@@ -22,7 +22,7 @@ service:
   - name: Événements
     icon: ti-announcement
     content: Nous organisons différents types d'événements, sportifs ou culturels,
-      afin de fédérer vos partenaires
+      afin de fédérer vos partenaires.
   - name: Déjeuners Business
     icon: ti-world
     content: Venez rencontrer notre réseau lors d'un déjeuner convivial dans des lieux
