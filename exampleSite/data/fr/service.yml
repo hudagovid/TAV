@@ -16,8 +16,9 @@ service:
     content: 'Découvrez une nouvelle façon de booster la visibilité de votre club
       via Facebook, Instagram, Linkedin et Twitter. '
   - name: Communauté
-    icon: ti-blackboard
-    content: Créons une communauté entre le club, ses licenciés et ses partenaires.
+    icon: ti-flag-alt-2
+    content: Créons et développons un véritable lien, une unification entre le club,
+      ses licenciés, ses bénévoles et ses partenaires
   - name: Evénements
     icon: ti-palette
     content: Fédérons vos partenaires autour d'événements.
