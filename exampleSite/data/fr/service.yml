@@ -11,9 +11,9 @@ service:
     content: Augmentons votre budget sponsoring en allant à la rencontre des acteurs
       de votre ville mais aussi de votre région !
   - name: Communication
-    icon: ti-world
-    content: Profitez de nos compétences sur Instagram, Facebook, LinkedIn et Twitter
-      pour booster la visibilité de votre club et de ses résultats.
+    icon: ti-comments
+    content: 'Découvrez une nouvelle façon de booster la visibilité de votre club
+      via Facebook, Instagram, Linkedin et Twitter. '
   - name: Communauté
     icon: ti-blackboard
     content: Créons une communauté entre le club, ses licenciés et ses partenaires.
