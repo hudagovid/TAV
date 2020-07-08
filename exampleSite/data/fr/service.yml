@@ -24,7 +24,7 @@ service:
     content: Nous organisons différents types d'événements, sportifs ou culturels,
       afin de fédérer vos partenaires.
   - name: Déjeuners Business
-    icon: ti-plate
+    icon: ti-user
     content: Nous développons le  réseau de vos partenaires, lors d'un déjeuner convivial
       dans des lieux uniques.
   - name: Afterwork
