@@ -19,9 +19,10 @@ service:
     icon: ti-flag-alt-2
     content: Créons et développons un véritable lien, une unification entre le club,
       ses licenciés, ses bénévoles et ses partenaires
-  - name: Evénements
-    icon: ti-palette
-    content: Fédérons vos partenaires autour d'événements.
+  - name: Événements
+    icon: ti-announcement
+    content: Nous organisons différents types d'événements, sportifs ou culturels,
+      afin de fédérer vos partenaires
   - name: Déjeuners Business
     icon: ti-world
     content: Venez rencontrer notre réseau lors d'un déjeuner convivial dans des lieux
