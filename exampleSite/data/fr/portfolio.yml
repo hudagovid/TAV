@@ -10,13 +10,6 @@ portfolio:
     - Football
     content: Club
     link: ''
-  - name: FC Nantes
-    image: "/images/fcn.png"
-    image_webp: "/images/fcn.png"
-    categories:
-    - Football
-    content: Evénement avec les supporters
-    link: https://www.fcnantes.com
   - name: Rugby Olympique Choletais
     image: "/images/logopsg.png"
     image_webp: "/images/logopsg.png"
