@@ -3,9 +3,9 @@ feature:
   enable: true
   image: "/images/2.png"
   image_webp: "/images/2.png"
-  title: Les chiffres du secteur
-  content: Les clubs sportifs, acteurs majeurs de notre région. Un club génère des
-    émotions, rassemble, fédère autour d'un événement
+  title: Quelques chiffres...
+  content: Les associations sportives, et le sport en général, font partie intégrante
+    de la vie des Français.
   feature_item:
   - title: 307 000
     icon: ti-world
