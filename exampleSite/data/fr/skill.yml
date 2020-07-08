@@ -5,7 +5,7 @@ skill:
   subtitle: Nos forces pour faire progresser votre club
   content: Nos trois années d'expérience avec plus de soixante clubs dans la région
     Pays de Loire nous ont permis de devenir les leaders blablablabla
-  image: images/about/company-growth.webp
+  image: "/images/favicon.png"
   skill_item:
   - name: Audit
     percent: 90%
