@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
+  - name: ROC
+    image: "/images/roc.png"
+    image_webp: "/images/roc.png"
+    categories:
+    - Football
+    content: Club
+    link: ''
   - name: FC Nantes
     image: "/images/fcn.png"
     image_webp: "/images/fcn.png"
