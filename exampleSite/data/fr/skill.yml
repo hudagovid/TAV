@@ -3,8 +3,12 @@ skill:
   enable: true
   title: Nos compétences
   subtitle: Nos forces pour faire progresser votre club
-  content: Nos trois années d'expérience avec plus de soixante clubs dans la région
-    Pays de Loire nous ont permis de devenir les leaders blablablabla
+  content: 'Présent dans le monde associatif depuis notre enfance, tour à tour pratiquant
+    puis bénévole et éducateur, ayant réalisés nos études dans la communication, la
+    gestion, le développement de structure dans le monde du sport et possédant des
+    expériences certaines dans ce domaine, nous avons décidés de lancer Néo Business
+    Sport afin d''accompagner les clubs souhaitant se structurer et se développer
+    afin de répondre aux besoins actuels des associations sportives.   '
   image: "/images/favicon.png"
   skill_item:
   - name: Audit
