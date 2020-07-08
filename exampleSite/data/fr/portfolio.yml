@@ -11,8 +11,8 @@ portfolio:
     content: Club
     link: https://www.rugbycholet-roc.com/
   - name: 'Energie le May sur Evre '
-    image: "/images/energie.png"
-    image_webp: "/images/energie.png"
+    image: "/images/may.png"
+    image_webp: "/images/may.png"
     categories:
     - Football
     content: Club
