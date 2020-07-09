@@ -12,10 +12,10 @@ skill:
   image: "/images/favicon.png"
   skill_item:
   - name: Audit
-    percent: 90%
+    percent: 100%
   - name: Business Development
-    percent: 90%
+    percent: 100%
   - name: Sponsoring
-    percent: 80%
+    percent: 100%
   - name: Organisation d'événements
-    percent: 75%
+    percent: 100%
