@@ -1,8 +1,10 @@
 ---
+- id: ''
+  translation: ''
 - id: brochure
   translation: Brochure
 - id: blogTitle
-  translation: Dernier message
+  translation: Derniers posts
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
