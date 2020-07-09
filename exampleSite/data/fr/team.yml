@@ -7,7 +7,7 @@ team:
     image_webp: "/images/thibault.jpg"
     image: "/images/thibault.jpg"
     designation: Co-fondateur
-    content: 'Responsable commercial '
+    content: ''
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/thibault-tabareau-/
@@ -19,7 +19,7 @@ team:
     image_webp: "/images/alban.jpg"
     image: "/images/alban.jpg"
     designation: Co-fondateur
-    content: 'Responsable événementiel '
+    content: ''
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/alban-gautier-41aa74188/
@@ -31,7 +31,7 @@ team:
     image_webp: "/images/valentin.jpg"
     image: "/images/valentin.jpg"
     designation: Co-fondateur
-    content: Responsable administratif
+    content: ''
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/valentin-soulhol-2326301a3/
