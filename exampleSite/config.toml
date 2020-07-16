@@ -21,33 +21,33 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "partners"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 6
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 5
+URL = "about"
+name = "about"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
+URL = "portfolio"
+name = "Clubs partenaires"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = "4"
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 6
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [[menu.static]]
 URL = "https://drive.google.com/file/d/1XPBmr49w7D1qNd1P6JLhk43vdHcSWSEr/view?usp=sharing"
 name = "brochure"
-weight = 1
+weight = ""
 [params]
 author = "Hugo David x Neo Business Sport"
 description = "Neo Business Sport - Nouveau modèle économique sportif"
@@ -89,13 +89,13 @@ enable = true
 preloader = "/images/logoneo-moyen.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/N%C3%A9o-Business-Sport-113570407080505/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/Neo_bsn"
 [[params.social]]
 icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/neo-business-sport/?viewAsMember=true"
