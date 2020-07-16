@@ -4,15 +4,15 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Club partenaire
+  - title: Clubs partenaires
     icon: ti-face-smile
-    count: "1"
+    count: "2"
   - title: Evénements réalisés
     icon: ti-archive
     count: "0"
-  - title: Audit réalisé
+  - title: Audits réalisés
     icon: ti-thumb-up
-    count: "1"
+    count: "2"
   - title: Mécénat moyen
     icon: ti-gift
     count: "0"
