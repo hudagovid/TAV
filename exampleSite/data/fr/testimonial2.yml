@@ -1,9 +1,9 @@
 ---
-testimonial:
+testimonial2:
   enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
-  testimonial_item:
+  testimonial2_item:
   - name: Hugo DAVID
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
