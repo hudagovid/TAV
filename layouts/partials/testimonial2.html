@@ -1,0 +1,30 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.testimonial2.testimonial2.enable }}
+{{ with $data.testimonial2.testimonial2 }}
+{{"<!-- Start Testimonial2 -->" | safeHTML}}
+<section id="testimonial2" class="testimonial overly section bg-2"
+	style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" src="{{ .bg_image_webp | absURL }}" />
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-12">
+				{{"<!-- testimonial wrapper -->" | safeHTML}}
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner" role="listbox">
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+            {{ range $paginator.Pages }}
+              <div class="carousel-item active">
+                <img class="d-block img-fluid" src="{{ .Data.carouselimage }}" alt="{{ .Data.carouselimagealt }}">
+              </div>
+            {{ end }}
+          </div>
+        </div>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /testimonial -->" | safeHTML}}
+{{ end }}
+{{ end }}
