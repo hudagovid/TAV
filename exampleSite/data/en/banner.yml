@@ -11,7 +11,3 @@ banner:
     enable: true
     label: Explore Us
     link: "#services"
-menu:
-  main:
-    name: partners
-    weight: 3
