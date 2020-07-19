@@ -11,16 +11,16 @@
 		<div class="row">
 			<div class="col-xl-12">
 				{{"<!-- testimonial wrapper -->" | safeHTML}}
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner" role="listbox">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
-            {{ range $paginator.Pages }}
-              <div class="carousel-item active">
-                <img class="d-block img-fluid" src="{{ .Data.carouselimage }}" alt="{{ .Data.carouselimagealt }}">
-              </div>
-            {{ end }}
-          </div>
-        </div>
+				<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+				  <div class="carousel-inner" role="listbox">
+				    {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+				    {{ range $paginator.Pages }}
+				      <div class="carousel-item active">
+					<img class="d-block img-fluid" src="{{ .Data.carouselimage }}" alt="{{ .Data.carouselimagealt }}">
+				      </div>
+				    {{ end }}
+				  </div>
+				</div>
 			</div>
 		</div>
 	</div>
