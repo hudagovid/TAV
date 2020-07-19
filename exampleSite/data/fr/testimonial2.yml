@@ -1,0 +1,19 @@
+---
+testimonial:
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Hugo DAVID
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Jun 26, 2020
+    content: Une équipe de professionnels qui a su transformer notre modèle économique.
+      Après deux saisons difficiles notre club est maintenant sur une bonne lancée.
+  - name: Lou GODINEAU
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: Mar 21, 2019
+    content: Notre section féminine a pu se développer suite à notre partenariat avec
+      Neo Business Sport. Grâce à eux, nous avons aujourd'hui 120 licenciées et les
+      joueuses évoluent au meilleur niveau régional.
