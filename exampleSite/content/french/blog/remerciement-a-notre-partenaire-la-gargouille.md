@@ -9,7 +9,7 @@ title = "Remerciement à notre partenaire La Gargouille"
 +++
 ## Remerciement à notre partenaire La Gargouille
 
-La société Néo Business Sport tient à remercier son premier partenaire d’entreprise : La Gargouille studio graphique. 
+La société Néo Business Sport tient à remercier son premier partenaire d’entreprise : La Gargouille studio graphique.
 
 ![](/images/signature-mail.jpg)
 
