@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2020-07-20T22:00:00Z
 description = ""
-draft = true
 image = "/images/roc.png"
 image_webp = "/images/roc.png"
 title = "Signature de notre premier Club Partenaire !"
