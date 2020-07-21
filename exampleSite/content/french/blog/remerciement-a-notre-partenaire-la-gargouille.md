@@ -9,8 +9,6 @@ title = "Remerciement à notre partenaire La Gargouille"
 +++
 #### La société Néo Business Sport tient à remercier son premier partenaire d’entreprise : La Gargouille studio graphique.
 
-![](/images/signature-mail.jpg)
-
 La Gargouille nous accompagne pour nos supports de communication physique et numérique avec de nombreuses créations : carte de visites, logo et charte graphique, dossier de présentation, bannières et invitations.
 
 La gargouille a également été la première à croire en notre projet et à nous suivre dans cette aventure.
