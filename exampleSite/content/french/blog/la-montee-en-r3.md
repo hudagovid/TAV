@@ -9,8 +9,6 @@ title = "Signature de notre premier Club Partenaire !"
 +++
 #### Néo Business Sport est heureux d’annoncer son premier club partenaire : Le Rugby Olympique Choletais.
 
-![](/images/roc.png)
-
 Créé en 1966, le ROC évolue depuis la saison 2017-2018 en Promotion Honneur et ambitionne une montée, à court terme, en fédérale 3, afin de s’y installer durablement.
 
 Nous tenons à remercier l’ensemble des membres du comité directeur, pour leur confiance envers nos services et avons hâte de démarrer cette collaboration, qui permettra au RO Cholet de devenir un club majeur de notre région.
