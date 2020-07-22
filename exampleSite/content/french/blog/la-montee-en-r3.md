@@ -15,7 +15,7 @@ Nous tenons à remercier l’ensemble des membres du comité directeur, pour leu
 
 JP Lannaud :
 
-Alban Gautier : « Nous sommes absolument ravis de pouvoir nous associer avec le RO Cholet, qui était notre priorité comme premier club partenaire. La cadre est idéale pour commencer notre activité ! Le RO Cholet est un club dynamique, familial et déjà tourné vers l’avenir. Cette collaboration est une évidence. Les perspectives d’évolution de la structuration du club, voulu par ses dirigeants, sont en adéquations avec notre vision novatrice du développement économique. Aujourd’hui nous prenons le relais et consacrerons toute notre énergie dans ce projet pour aider le RO Cholet à atteindre ses objectifs sportifs. »
+Alban Gautier : « Nous sommes absolument ravis de pouvoir nous associer avec le RO Cholet, qui était notre priorité comme premier club partenaire. La cadre est idéale pour commencer notre activité ! Le RO Cholet est un club dynamique, familial et déjà tourné vers l’avenir. Cette collaboration est une évidence. Les perspectives d’évolution de la structuration du club, voulu par ses dirigeants, sont en adéquations avec notre vision novatrice du développement économique. Aujourd’hui nous prenons le relais et consacrerons toute notre énergie dans ce projet pour aider le RO Cholet à atteindre ses objectifs sportifs.»
 
 **Le ROC en bref…**
 
