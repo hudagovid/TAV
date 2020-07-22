@@ -28,8 +28,8 @@ team:
     - icon: ti-twitter-alt
       link: https://twitter.com/BanBan1696
   - name: Valentin SOULHOL
-    image_webp: "/images/valentin2.jpg"
-    image: "/images/valentin2.jpg"
+    image_webp: "/images/valentin2.jpeg"
+    image: "/images/valentin2.jpeg"
     designation: Co-fondateur
     content: ''
     social:
