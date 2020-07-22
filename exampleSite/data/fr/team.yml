@@ -4,8 +4,8 @@ team:
   title: Notre équipe
   team_member:
   - name: Thibault TABAREAU
-    image_webp: "/images/thibault.jpg"
-    image: "/images/thibault.jpg"
+    image_webp: "/images/thibault2.jpg"
+    image: "/images/thibault2.jpg"
     designation: Co-fondateur
     content: ''
     social:
@@ -42,4 +42,4 @@ team:
 menu:
   main:
     name: team
-    weight: 4
+    weight: "4"
