@@ -5,13 +5,13 @@ funfacts:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
   - title: Clubs partenaires
-    icon: ti-face-smile
+    icon: ti-basketball
     count: "2"
   - title: Evénements réalisés
-    icon: ti-archive
+    icon: ti-announcement
     count: "0"
   - title: Audits réalisés
-    icon: ti-thumb-up
+    icon: ti-check-box
     count: "2"
   - title: Mécénat moyen
     icon: ti-gift
