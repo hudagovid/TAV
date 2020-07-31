@@ -14,3 +14,9 @@ La Gargouille nous accompagne pour nos supports de communication physique et num
 La gargouille a également été la première à croire en notre projet et à nous suivre dans cette aventure.
 
 Nous tenons à remercier Madame Anne Leroux pour son professionnalisme, sa réactivité et la qualité de son travail.
+
+Pour tout contact avec La Gargouille : 
+
+* lagargouille@orange.fr
+* 06 70 07 14 69
+* www.lagargouille-studio.com
