@@ -17,7 +17,3 @@ portfolio:
     - Football
     content: Club
     link: http://club.quomodo.com/energie-football-le-may-sur-evre
-menu:
-  main:
-    name: partners
-    weight: 3
