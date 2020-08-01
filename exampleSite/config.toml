@@ -21,6 +21,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
+name = "partners"
+weight = 3
+[[menu.main]]
 URL = "team"
 name = "team"
 weight = 4
