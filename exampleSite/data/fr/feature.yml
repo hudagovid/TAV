@@ -11,7 +11,7 @@ feature:
     icon: ti-dribbble
     content: associations sportives en France.
   - title: 34 millions de français
-    icon: ti-panel
+    icon: ti-user
     content: de + de 15 ans déclarent pratiquer une activité physique par semaine.
   - title: 15 millions
     icon: ti-stats-up
