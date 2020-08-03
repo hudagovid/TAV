@@ -4,7 +4,7 @@ skill:
   title: Nos compétences
   subtitle: Nos forces pour développer votre club.
   content: ''
-  image: ''
+  image: "/images/logoneo-moyen.png"
   skill_item:
   - name: Audit
     percent: 100%
