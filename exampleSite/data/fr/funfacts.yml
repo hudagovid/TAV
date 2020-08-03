@@ -7,12 +7,12 @@ funfacts:
   - title: Clubs partenaires
     icon: ti-basketball
     count: "2"
-  - title: Evénements réalisés
-    icon: ti-announcement
-    count: "0"
-  - title: Audits réalisés
-    icon: ti-check-box
-    count: "2"
-  - title: Mécénat moyen
-    icon: ti-gift
-    count: "0"
+  - title: Communauté Linkedin
+    icon: ti-linkedin
+    count: "1900"
+  - title: Communauté Twitter
+    icon: ti-twitter-alt
+    count: "494"
+  - title: 'Communauté Instagram '
+    icon: ti-instagram
+    count: "750"
