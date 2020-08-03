@@ -5,7 +5,7 @@ banner:
   bg_image: "/images/background-NEO.png"
   icon: ''
   title: ''
-  content: Transformez votre modèle économique simplement
+  content: Transformez votre modèle économique !
   button:
     enable: true
     label: En savoir plus
