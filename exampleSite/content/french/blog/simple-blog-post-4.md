@@ -1,5 +1,5 @@
 ---
-title: Néo Business Sport accompagne l'Energie football du May sur Evre
+title: Néo Business Sport accompagne l'Energie football du May sur Evre.
 date: 2020-07-30T22:00:00+00:00
 image_webp: "/images/energielemay4.png"
 image: "/images/enenergielemay6.png"
