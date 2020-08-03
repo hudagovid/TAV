@@ -2,13 +2,8 @@
 skill:
   enable: true
   title: Nos compétences
-  subtitle: Nos forces pour développer votre club
-  content: 'Présent dans le monde associatif depuis notre enfance, tour à tour pratiquant
-    puis bénévole et éducateur, ayant réalisés nos études dans la communication, la
-    gestion, le développement de structure dans le monde du sport et possédant des
-    expériences certaines dans ce domaine, nous avons décidés de lancer Néo Business
-    Sport afin d''accompagner les clubs souhaitant se structurer et se développer
-    pour répondre aux besoins actuels des associations sportives.   '
+  subtitle: Nos forces pour développer votre club.
+  content: ''
   image: ''
   skill_item:
   - name: Audit
