@@ -8,7 +8,7 @@ feature:
     de la vie des Français.
   feature_item:
   - title: 307 000
-    icon: ti-world
+    icon: ti-dribbble
     content: associations sportives en France.
   - title: 34 millions de français
     icon: ti-panel
