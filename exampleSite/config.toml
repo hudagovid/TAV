@@ -93,8 +93,5 @@ link = "https://www.facebook.com/N%C3%A9o-Business-Sport-113570407080505/"
 icon = "ti-twitter-alt"
 link = "https://twitter.com/Neo_bsn"
 [[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/neo-business-sport/?viewAsMember=true"
