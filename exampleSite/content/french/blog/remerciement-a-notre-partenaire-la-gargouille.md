@@ -4,7 +4,7 @@ date = 2020-07-21T22:00:00Z
 description = ""
 image = "/images/la-gargouille.png"
 image_webp = "/images/la-gargouille.png"
-title = "Remerciement à notre partenaire La Gargouille"
+title = "Remerciement à notre partenaire La Gargouille."
 
 +++
 #### La société Néo Business Sport tient à remercier son premier partenaire d’entreprise : La Gargouille studio graphique.
