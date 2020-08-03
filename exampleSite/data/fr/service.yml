@@ -18,7 +18,7 @@ service:
   - name: Communauté
     icon: ti-flag-alt-2
     content: Créons et développons un véritable lien, une unification, entre le club,
-      ses licenciés, ses bénévoles et ses partenaires
+      ses licenciés, ses bénévoles et ses partenaires.
   - name: Événements
     icon: ti-announcement
     content: Nous organisons différents types d'événements, sportifs ou culturels,
