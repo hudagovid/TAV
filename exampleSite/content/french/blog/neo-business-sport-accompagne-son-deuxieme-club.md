@@ -3,7 +3,7 @@ author = "Alban GAUTIER"
 date = 2020-08-03T22:00:00Z
 description = ""
 image = ""
-image_webp = "/images/velcan.png"
+image_webp = "/images/velcan2.png"
 title = "Néo Business Sport accompagne son deuxième Club !"
 
 +++
