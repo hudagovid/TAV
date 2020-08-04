@@ -3,7 +3,12 @@ skill:
   enable: true
   title: Nos compétences
   subtitle: Nos forces pour développer votre club.
-  content: ''
+  content: "Notre équipe possède des compétences solides acquises lors de nos études
+    dans le marketing sportif et le développement des structures sportives, et des
+    premières expériences professionnelles réussies :\n\n         -  Réalisation des
+    22èmes Atlantic Games à Saint \n            Nazaire, compétition Internationale
+    de sports nautiques Espoirs.\n\n         -  Développement des clubs d'athlétisme
+    de la Roche-sur-Yon et du club \n            d'athlétisme de Nantes. \n"
   image: "/images/logoneo-moyen.png"
   skill_item:
   - name: Audit
