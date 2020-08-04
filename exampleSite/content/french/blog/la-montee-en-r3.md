@@ -17,14 +17,9 @@ Alban Gautier : « Nous sommes absolument ravis de pouvoir nous associer avec le
 
 **Le ROC en bref…**
 
-\- Créé en 1966
-
-\- Equipe fanion en Honneur
-
-\- Equipe U19 en Régional 1
-
-\- Equipes féminines senior et U18 régional
-
-\- Ecole de rugby
-
-\- Club référencé Handiguide des Sports depuis la saison 2017-2018
+* Créé en 1966
+* Equipe fanion en Honneur
+* Equipe U19 en Régional 1
+* Equipes féminines senior et U18 régional
+* Ecole de rugby
+* Club référencé Handiguide des Sports depuis la saison 2017-2018
