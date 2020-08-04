@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
+  - name: VELCAN RACING TEAM
+    image: "/images/velcan.png"
+    image_webp: "/images/velcan.png"
+    categories:
+    - Cyclisme
+    content: Club
+    link: https://www.teamvtthorizon44.com/
   - name: Rugby Olympique Choletais
     image: "/images/roc2.png"
     image_webp: "/images/roc2.png"
