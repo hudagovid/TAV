@@ -21,6 +21,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = "1"
 [[menu.main]]
+URL = "portfolio"
 name = "clubs"
 weight = 4
 [[menu.main]]
