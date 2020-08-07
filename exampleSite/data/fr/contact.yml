@@ -21,3 +21,7 @@ contact:
     subject: Objet
     message: Message
     submit: Envoyer
+menu:
+  main:
+    name: partners
+    weight: 3
