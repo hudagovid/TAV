@@ -1,4 +1,6 @@
 ---
+- id: clubs
+  translation: Clubs Partenaires
 - id: partners
   translation: Clubs Partenaires
 - id: brochure
