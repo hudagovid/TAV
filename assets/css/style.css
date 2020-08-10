@@ -2283,23 +2283,19 @@ figcaption {
   display: block;
 }
 
-.responsive-video {
-	position: relative;
-	padding-bottom: 53.25%;
-	padding-top: 30px;
-	height: 0;
-	overflow: hidden;
+.responsive-video { 
+overflow:hidden; 
+padding-bottom:56.25%; 
+position:relative; 
+height:0;
 }
-.responsive-video,
-	.responsive-container iframe {
-	max-width: 1280px;
-	max-height: 720px;
-}
+
 .responsive-video iframe {
-	position: absolute;
-	top: 0; left: 0;
-	width: 100%;
-	height: 100%;
+left:0; 
+top:0; 
+height:100%;
+width:100%;
+position:absolute;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
