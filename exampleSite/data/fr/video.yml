@@ -1,5 +1,5 @@
 ---
 video:
-  enable: true
+  enable: false
   title: Présentation Vidéo
   link: https://www.youtube.com/embed/OYyTO7qcmbs
