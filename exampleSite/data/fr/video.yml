@@ -1,5 +1,7 @@
 ---
 video:
-  enable: false
+  enable: true
   title: 'Nos services ! '
-  link: https://www.youtube.com/watch?v=ogvEaGhqzrs&t=9s
+  link: <iframe width="560" height="315" src="https://www.youtube.com/embed/ogvEaGhqzrs"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
