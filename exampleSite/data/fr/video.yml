@@ -2,6 +2,4 @@
 video:
   enable: true
   title: 'Nos services ! '
-  link: <iframe width="560" height="315" src="https://www.youtube.com/embed/ogvEaGhqzrs"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
+  link: https://www.youtube.com/embed/ogvEaGhqzrs
