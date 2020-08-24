@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: "/images/basketball-108622_1920.jpg"
-  bg_image: "/images/neo-positif.ico"
+  bg_image: "/images/neo-positif.png"
   icon: ''
   title: ''
   content: 'NÉO accompagne les Associations Sportives ! '
