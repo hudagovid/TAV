@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/basketball-108622_1920.jpg"
+  bg_image_webp: "/images/background.png"
   bg_image: "/images/neo-positif.png"
   icon: ''
   title: ''
