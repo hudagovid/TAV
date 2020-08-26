@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/background.png"
+  bg_image_webp: "/images/background-neo.png"
   bg_image: "/images/favicon.png"
   icon: ''
   title: ''
