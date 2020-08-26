@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: "/images/background.png"
-  bg_image: "/images/neo-positif.png"
+  bg_image: "/images/favicon.png"
   icon: ''
   title: ''
   content: 'NÉO accompagne les Associations Sportives ! '
