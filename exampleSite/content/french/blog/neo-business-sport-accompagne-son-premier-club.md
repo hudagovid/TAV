@@ -18,6 +18,10 @@ Alban Gautier : « Nous sommes absolument ravis de pouvoir nous associer avec le
 **Le ROC en bref…**
 
 * Créé en 1966
+* 9 équipes
+* 70 bénévoles
+* 36 éducateurs
+* 250 licenciés
 * Equipe fanion en Honneur
 * Equipe U19 en Régional 1
 * Equipes féminines senior et U18 régional
