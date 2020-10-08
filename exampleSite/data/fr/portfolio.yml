@@ -18,8 +18,8 @@ portfolio:
     content: Club
     link: http://club.quomodo.com/energie-football-le-may-sur-evre
   - name: VELCAN RACING TEAM
-    image: velcan.png
-    image_webp: velcan.png
+    image: "/images/velcan.png"
+    image_webp: "/images/velcan.png"
     categories:
     - Cyclisme
     content: Club
