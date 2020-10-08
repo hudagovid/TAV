@@ -23,6 +23,7 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/french/blog/mateo-chedaleux-aux-championnats-du-monde-et-d-europe-juniors.md
 - exampleSite/content/french/blog/neo-business-sport-accompagne-son-deuxieme-club.md
 - exampleSite/content/french/blog/neo-business-sport-accompagne-son-premier-club.md
 - exampleSite/content/french/blog/remerciement-a-notre-partenaire-la-gargouille.md
