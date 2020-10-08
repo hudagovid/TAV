@@ -3,7 +3,7 @@ author = "Alban GAUTIER"
 date = 2020-08-16T22:00:00Z
 description = ""
 image = "/images/photo-roc-3.jpg"
-image_webp = "/images/roc.png"
+image_webp = "/images/roc-site.png"
 title = "Néo Business Sport accompagne son premier Club !"
 
 +++
