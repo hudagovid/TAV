@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2020-09-30T22:00:00Z
 description = ""
-draft = true
 image = "/images/linkedin-mateo.jpg"
 image_webp = "/images/valcan-racing-logo-velcan-noir-500x150mm-x10.png"
 title = "Matéo Chedaleux aux Championnats du Monde et d'Europe Juniors."
