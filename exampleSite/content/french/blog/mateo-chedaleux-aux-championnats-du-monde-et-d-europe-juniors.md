@@ -3,7 +3,7 @@ author = "Alban GAUTIER"
 date = 2020-09-30T22:00:00Z
 description = ""
 image = "/images/linkedin-mateo.jpg"
-image_webp = "/images/velcan-2.png"
+image_webp = "/images/linkedin-mateo.jpg"
 title = "Matéo Chedaleux aux Championnats du Monde et d'Europe Juniors."
 
 +++
