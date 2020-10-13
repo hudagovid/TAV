@@ -1,5 +1,5 @@
 DefaultContentLanguage = "fr"
-baseURL = "https://TAV.netlify.com"
+baseURL = "https://neobsport.com"
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
