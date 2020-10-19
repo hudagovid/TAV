@@ -4,18 +4,18 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: 'Communauté Facebook  '
-    icon: ti-facebook
-    count: "1767"
   - title: Clubs partenaires
     icon: ti-basketball
     count: "3"
+  - title: 'Communauté Facebook  '
+    icon: ti-facebook
+    count: "1767"
   - title: Communauté Linkedin
     icon: ti-linkedin
     count: "2158"
-  - title: Communauté Twitter
-    icon: ti-twitter-alt
-    count: "494"
   - title: 'Communauté Instagram '
     icon: ti-instagram
     count: "1860"
+  - title: Communauté Twitter
+    icon: ti-twitter-alt
+    count: "494"
