@@ -4,12 +4,12 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Sportif partenaire
-    icon: ti-user
-    count: "1"
   - title: Clubs partenaires
     icon: ti-basketball
     count: "3"
+  - title: Sportif partenaire
+    icon: ti-user
+    count: "1"
   - title: 'Communauté Facebook  '
     icon: ti-facebook
     count: "1767"
