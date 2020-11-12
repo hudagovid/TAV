@@ -4,7 +4,7 @@ date = 2020-11-11T23:00:00Z
 description = ""
 image = "/images/img_2153.jpg"
 image_webp = "/images/img_2153.jpg"
-title = "Un athlète Internationale rejoint les rangs de Néo !"
+title = "Un athlète International rejoint les rangs de Néo !"
 
 +++
 #### Charles NOAKES, joueur professionnel de Parabadminton, rejoint l’équipe de Néo Business Sport.
