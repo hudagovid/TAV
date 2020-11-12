@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2020-11-11T23:00:00Z
 description = ""
-draft = true
 image = "/images/img_2153.jpg"
 image_webp = "/images/img_2153.jpg"
 title = "Un athlète Internationale rejoint les rangs de Néo !"
