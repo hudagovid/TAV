@@ -9,9 +9,9 @@ title = "Un athlète International rejoint les rangs de Néo !"
 +++
 #### Charles NOAKES, joueur professionnel de Parabadminton, rejoint l’équipe de Néo Business Sport.
 
-Charles évolue dans la catégorie petite taille, SH6, et est actuellement licencié au BCSH (Badminton club de Saint-Herblain)
+Charles évolue dans la catégorie petite taille, SH6, et est actuellement licencié au BCSH (Badminton club de Saint-Herblain). Il connu une ascension fulgurante mais linéaire et parfaitement construite.
 
-Commençant le badminton en 2017, participant à ses premiers championnats de France en 2018 ou il décrochera une médaille d’argent en simple, intégrant le pôle Espoir de badminton du CREPS des Pays de la Loire en 2019 et commençant sa carrière Internationale la même année et devenant, en janvier 2020, Champion de France en simple pour la première fois, Charles connu une ascension fulgurante mais linéaire et parfaitement construite.
+Commençant le badminton en 2017, participant à ses premiers championnats de France en 2018 ou il décrochera une médaille d’argent en simple, il intègre le pôle Espoir de badminton du CREPS des Pays de la Loire en 2019. Il commence sa carrière Internationale la même année et devient, en janvier 2020, Champion de France en simple pour la première fois. 
 
 Le natif de Sidcup (Royaume-Uni), se place comme un porte drapeau du sport handicap, intervenant régulièrement dans des écoles, collèges et lycées pour sensibiliser les plus jeunes au handicap. Une volonté qui rejoint celle de Néo Business Sport et qui fait de ce partenariat, une évidence.
 
