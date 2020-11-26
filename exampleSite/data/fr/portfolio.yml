@@ -4,8 +4,8 @@ portfolio:
   title: Clubs partenaires
   portfolio_item:
   - name: 'Charles NOAKES '
-    image: "/images/charles-noakes.png"
-    image_webp: "/images/charles-noakes.png"
+    image: "/images/charles.png"
+    image_webp: "/images/charles.png"
     categories:
     - Sportif
     content: 'International Français de Parabadminton '
