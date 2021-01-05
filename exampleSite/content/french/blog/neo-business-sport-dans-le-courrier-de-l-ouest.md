@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2020-11-30T23:00:00Z
 description = ""
-draft = true
 image = "/images/p24133197d4386515g.jpg"
 image_webp = "/images/sans-titre.png"
 title = "Néo Business Sport dans le Courrier de l'Ouest"
