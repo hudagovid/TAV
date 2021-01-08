@@ -3,7 +3,7 @@ author = "Alban GAUTIER"
 date = 2021-01-07T23:00:00Z
 description = ""
 image = "/images/choletmag2.png"
-image_webp = "/images/sans-titre.png"
+image_webp = ""
 title = "Néo Business Sport dans CholetMag"
 
 +++
