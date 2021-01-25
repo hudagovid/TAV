@@ -15,7 +15,7 @@ Actuellement le sport féminin souffre d’un manque de considération et de sou
 
 Une véritable hérésie au vu du pourcentage de médailles mondiales ramenées par le sport féminin : 40% sur une année civile… Imaginez donc si le montant alloué au sport féminin atteignait ne serait-ce que les 10% !
 
-Malgré cette sous médiatisation, le public est au rendez-vous. En effet, 64% des français se disent prêt a regarder le sport féminin s’il était plus diffusé. Une véritable aubaine pour une entreprise désireuse de développer sa notoriété !
+Malgré cette sous médiatisation, le public est au rendez-vous. En effet, 64% des français se disent prêt à regarder le sport féminin s’il était plus diffusé. Une véritable aubaine pour une entreprise désireuse de développer sa notoriété !
 
 ##### UN MARCHÉ EN PLEIN ESSOR QUI NE DEMANDE QU'À SE STRUCTURER
 
