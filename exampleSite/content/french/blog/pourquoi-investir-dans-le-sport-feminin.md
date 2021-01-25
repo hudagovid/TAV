@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2021-01-25T23:00:00Z
 description = ""
-draft = true
 image = "/images/123439025_367925911093106_5177969712616158860_n.jpg"
 image_webp = "/images/velcan-photos-team-52.jpg"
 title = "POURQUOI INVESTIR DANS LE SPORT FÉMININ ?"
