@@ -7,7 +7,7 @@ image_webp = "/images/velcan-photos-team-52.jpg"
 title = "POURQUOI INVESTIR DANS LE SPORT FÉMININ ?"
 
 +++
-_Aujourd’hui la pratique du sport féminin est devenue une donnée courante dans le paysage sportif français, reconnue, réputée et mise en avant. Cependant, il continue d’être sous représenté par rapport au sport masculin notamment au niveau du sponsoring. Pourquoi un tel paradoxe et pourquoi désormais l’investissement dans le sport féminin est devenu incontournable ?_
+_Aujourd’hui la pratique du sport féminin est devenue une donnée courante dans le paysage sportif français, reconnue, réputée et mise en avant. Cependant, elle continue d’être sous représentée par rapport au sport masculin notamment au niveau du sponsoring. Pourquoi un tel paradoxe et pourquoi désormais l’investissement dans le sport féminin est devenu incontournable ?_
 
 ##### UN MARCHÉ SOUS DÉVELOPPÉ
 
@@ -31,22 +31,21 @@ Aujourd’hui, investir dans le sport féminin permet de donner à votre entrepr
 
 Résultat de cette sous médiatisation, les tarifs d’investissement sont beaucoup plus abordables dans le sport féminin.
 
-###### Un taux d’engagement supérieur : 
+###### Un taux d’engagement supérieur :
 
 Les sportives sont également plus abordables, et plus proches de leur communauté, le taux d'engagement sera donc plus important auprès de son public. Investir dans le sport féminin c’est avoir la certitude d’avoir un retour sur cet investissement !
 
-###### Les mêmes canaux que les hommes : 
+###### Les mêmes canaux que les hommes :
 
 Les sportives utilisent les mêmes canaux de communications que les sportifs et clubs sportifs. Investir dans le sport féminin c’est donc avoir une audience similaire pour des coûts plus abordables.
 
-###### Avoir une image moderne : 
+###### Avoir une image moderne :
 
 Soutenir le sport féminin c’est aussi soutenir l’égalité homme/femme ! Investir dans le sport féminin c’est montrer l’image d’une entreprise tournée vers le futur !
 
 Autant de points et d’arguments qui devraient vous convaincre d’investir dans le sport féminin.
 
-  
-Si vous êtes intéressés, n'hésitez pas à nous contacter :   
+Si vous êtes intéressés, n'hésitez pas à nous contacter :
 
 Alban Gautier et Thibault Tabareau
 
