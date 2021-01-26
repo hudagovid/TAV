@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2021-01-25T23:00:00Z
 description = ""
-draft = true
 image = "/images/gtwe1765.JPG"
 image_webp = "/images/sco-angers-volley-86875f40d0594e1691fe38210c0e8201.jpg"
 title = "Le SCO rejoint Néo Business Sport "
