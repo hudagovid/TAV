@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
+  - name: SCO Volley Ball
+    image: "/images/sco-angers-volley-86875f40d0594e1691fe38210c0e8201.jpg"
+    image_webp: "/images/sco-angers-volley-86875f40d0594e1691fe38210c0e8201.jpg"
+    categories:
+    - Volley
+    content: Club
+    link: https://scoangersvolley.clubeo.com/
   - name: 'Charles NOAKES '
     image: "/images/charles.png"
     image_webp: "/images/charles.png"
