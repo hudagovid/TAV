@@ -4,8 +4,8 @@ portfolio:
   title: Clubs partenaires
   portfolio_item:
   - name: SCO Volley Ball
-    image: "/images/volley-blanc.png"
-    image_webp: "/images/volley-blanc.png"
+    image: "/images/volley-site.png"
+    image_webp: "/images/volley-site.png"
     categories:
     - Volley
     content: Club
