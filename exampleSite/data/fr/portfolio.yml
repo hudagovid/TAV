@@ -6,8 +6,7 @@ portfolio:
   - name: SCO Volley Ball
     image: "/images/volley-site-2.png"
     image_webp: "/images/volley-site-2.png"
-    categories:
-    - Volley
+    categories: []
     content: Club
     link: https://scoangersvolley.clubeo.com/
   - name: 'Charles NOAKES '
@@ -20,8 +19,7 @@ portfolio:
   - name: Rugby Olympique Choletais
     image: "/images/roc-site.png"
     image_webp: "/images/roc-site.png"
-    categories:
-    - Rugby
+    categories: []
     content: Club
     link: https://www.rugbycholet-roc.com/
   - name: 'Energie le May sur Evre '
