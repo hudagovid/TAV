@@ -12,8 +12,7 @@ portfolio:
   - name: 'Charles NOAKES '
     image: "/images/charles.png"
     image_webp: "/images/charles.png"
-    categories:
-    - Sportif
+    categories: []
     content: 'International Français de Parabadminton '
     link: https://charlesnoakes.fr/
   - name: Rugby Olympique Choletais
@@ -25,14 +24,12 @@ portfolio:
   - name: 'Energie le May sur Evre '
     image: "/images/enenergielemay6.png"
     image_webp: "/images/enenergielemay6.png"
-    categories:
-    - Football
+    categories: []
     content: Club
     link: http://club.quomodo.com/energie-football-le-may-sur-evre
   - name: VELCAN RACING TEAM
     image: "/images/logo-velcan-rose-petit-2.png"
     image_webp: "/images/logo-velcan-rose-petit-2.png"
-    categories:
-    - Cyclisme
+    categories: []
     content: Club
     link: https://www.teamvtthorizon44.com/
