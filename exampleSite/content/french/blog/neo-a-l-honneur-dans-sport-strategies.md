@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2021-02-21T23:00:00Z
 description = ""
-draft = true
 image = "/images/sports-strategies.png"
 image_webp = "/images/sports-strategies.png"
 title = "Néo à l'honneur dans Sport Stratégies "
