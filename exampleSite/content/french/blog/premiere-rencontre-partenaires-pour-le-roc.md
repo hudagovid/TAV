@@ -2,7 +2,6 @@
 author = "Alban GAUTIER"
 date = 2021-03-11T23:00:00Z
 description = ""
-draft = true
 image = "/images/img-0935-1.jpg"
 image_webp = "/images/img-0935-1.jpg"
 title = "Première rencontre partenaires pour le ROC "
