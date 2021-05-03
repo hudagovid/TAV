@@ -2,7 +2,6 @@
 author = "Alban Gautier"
 date = 2021-05-02T22:00:00Z
 description = ""
-draft = true
 image = "/images/img_0070.jpg"
 image_webp = "/images/whatsapp-image-2021-04-28-at-09-22-31-1.jpeg"
 title = "Nouveau partenaire pour Charles Noakes"
