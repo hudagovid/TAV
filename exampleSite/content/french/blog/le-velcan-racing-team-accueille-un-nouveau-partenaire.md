@@ -2,7 +2,6 @@
 author = "Alban Gautier"
 date = 2021-06-17T22:00:00Z
 description = ""
-draft = true
 image = "/images/hamac-shoot-172.jpg"
 image_webp = "/images/hamac-shoot-172.jpg"
 title = "Le Velcan Racing team accueille un nouveau partenaire ! "
