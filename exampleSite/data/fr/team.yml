@@ -4,8 +4,8 @@ team:
   title: Notre équipe
   team_member:
   - name: Thibault TABAREAU
-    image_webp: "/images/thibault8.png"
-    image: "/images/thibault8.png"
+    image_webp: "/images/1-1.png"
+    image: "/images/1-1.png"
     designation: Co-fondateur
     content: ''
     social:
@@ -28,8 +28,8 @@ team:
     - icon: ti-twitter-alt
       link: https://twitter.com/BanBan1696
   - name: Valentin SOULHOL
-    image_webp: "/images/valentin2.jpeg"
-    image: "/images/valentin2.jpeg"
+    image_webp: "/images/3-1.png"
+    image: "/images/3-1.png"
     designation: Co-fondateur
     content: ''
     social:
