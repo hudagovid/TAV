@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Clubs partenaires
   portfolio_item:
+  - name: 'Nantes Métropole Athlétisme '
+    image: "/images/nma.png"
+    image_webp: "/images/nma.png"
+    categories: ''
+    content: Club
+    link: https://nmathle.fr/
   - name: SCO Volley Ball
     image: "/images/volley-site-4.png"
     image_webp: "/images/volley-site-4.png"
