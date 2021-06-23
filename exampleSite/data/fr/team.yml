@@ -16,8 +16,8 @@ team:
     - icon: ti-twitter-alt
       link: https://twitter.com/ThibTab
   - name: Alban GAUTIER
-    image_webp: "/images/alban2.jpeg"
-    image: "/images/alban2.jpeg"
+    image_webp: "/images/2-1.png"
+    image: "/images/2-1.png"
     designation: Co-fondateur
     content: ''
     social:
