@@ -2,7 +2,7 @@
 author = "Alban Gautier"
 date = 2021-07-04T22:00:00Z
 description = ""
-image = ""
+image = "/images/image_6483441-5.JPG"
 image_webp = "/images/image_6483441-4.JPG"
 title = "Charles Noakes Champion de France ! "
 
