@@ -23,6 +23,7 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/french/blog/charles-noakes-champion-de-france.md
 - exampleSite/content/french/blog/le-sco-rejoint-neo-business-sport.md
 - exampleSite/content/french/blog/le-velcan-racing-team-accueille-un-nouveau-partenaire.md
 - exampleSite/content/french/blog/mateo-chedaleux-aux-championnats-du-monde-et-d-europe-juniors.md
