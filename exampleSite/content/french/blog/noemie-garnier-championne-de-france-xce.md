@@ -2,7 +2,6 @@
 author = "Alban Gautier"
 date = 2021-07-14T22:00:00Z
 description = ""
-draft = true
 image = "/images/image_6483441-6.JPG"
 image_webp = "/images/image_6483441-6.JPG"
 title = "Noémie GARNIER championne de France XCE "
